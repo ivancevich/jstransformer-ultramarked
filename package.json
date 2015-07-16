@@ -1,0 +1,14 @@
+{
+  "name": "jstransformer-ultramarked",
+  "version": "1.0.0",
+  "description": "Ultramarked support for JSTransformers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JC Ivancevich <jc.ivancevich@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ultramarked": "^1.7.0"
+  }
+}
